@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Dot Net Core
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: shblnmn@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 
