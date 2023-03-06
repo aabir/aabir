@@ -3,7 +3,7 @@
 
 I'm Shible Noman Aabir. 
 
-Have been working in tech for more then 8 years. My current tech stack is C#, Dot Net, Core, MSSQL JavaScript etc. 
+My current tech stack is C#, Dot Net, Core, MSSQL JavaScript etc. 
 Previously worked with PHP, CodeIgnitor, Laravel and MySQL. 
 
 Currently focusing on clean code, clean architecture and unit test.
